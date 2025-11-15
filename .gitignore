@@ -1,0 +1,59 @@
+C++ / CMake / VS Code / Build files
+
+VS Code
+
+.vscode/
+
+CMake build directories
+
+build/
+/build/
+build-/
+/build-/
+Build/
+/Build/
+[Bb]uild/
+
+CMake files
+
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+Visual Studio
+
+*.sln
+*.suo
+*.user
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.VC.opendb
+
+Executables
+
+*.exe
+*.out
+*.app
+
+Libraries
+
+*.lib
+*.dll
+*.so
+*.a
+*.dylib
+
+Object files
+
+*.o
+*.obj
+*.o.d
